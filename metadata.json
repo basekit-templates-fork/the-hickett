@@ -1,7 +1,7 @@
 {
     "name":"the-hickett",
     "thumbnail":"the-hickett.png",
-    "screenshot":"the0hickett.png",
+    "screenshot":"the-hickett.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
