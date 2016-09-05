@@ -1,63 +1,106 @@
 {
-    "name":"the-hickett",
-    "thumbnail":"the-hickett.png",
-    "screenshot":"the-hickett.png",
-    "templateType":"standard",
-    "pageTypes": ["home"],
+    "name": "the-hickett",
+    "thumbnail": "the-hickett.png",
+    "screenshot": "the-hickett-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["fullscreen", "dark", "photography", "modern", "stylish", "agency", "magazine", "creative", "elegant", "professional", "sophisticated", "media", "sans-serif"],
-    "es": ["pantalla completa", "oscuro", "fotografico", "moderno", "estilo", "agencia", "revista", "creativo", "elegante", "profesional", "sofisticado", "comunicacion", "sans-serif"],
-    "br": ["expandido", "escuro", "fotografia", "moderno", "estilo", "agência", "revista", "criativo", "elegante", "profissional", "sofisticado", "mídia", "sans-serif"]
+        "en": [
+            "fullscreen",
+            "dark",
+            "photography",
+            "modern",
+            "stylish",
+            "agency",
+            "magazine",
+            "creative",
+            "elegant",
+            "professional",
+            "sophisticated",
+            "media",
+            "sans-serif"
+        ],
+        "es": [
+            "pantalla completa",
+            "oscuro",
+            "fotografico",
+            "moderno",
+            "estilo",
+            "agencia",
+            "revista",
+            "creativo",
+            "elegante",
+            "profesional",
+            "sofisticado",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "expandido",
+            "escuro",
+            "fotografia",
+            "moderno",
+            "estilo",
+            "ag\u00eancia",
+            "revista",
+            "criativo",
+            "elegante",
+            "profissional",
+            "sofisticado",
+            "m\u00eddia",
+            "sans-serif"
+        ]
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg"
     ],
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#5e9345",
-            "color4":"#000000",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#5e9345",
+            "color4": "#000000",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#88b9c5",
-            "color4":"#7f7f7f",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#88b9c5",
+            "color4": "#7f7f7f",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#a3b78f",
-            "color4":"#7f7f7f",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#a3b78f",
+            "color4": "#7f7f7f",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#c3a2be",
-            "color4":"#7f7f7f",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#c3a2be",
+            "color4": "#7f7f7f",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#f2f2f2",
-            "color3":"#809fc9",
-            "color4":"#7f7f7f",
-            "color5":"#b5b5b5",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#f2f2f2",
+            "color3": "#809fc9",
+            "color4": "#7f7f7f",
+            "color5": "#b5b5b5",
+            "color6": "#ffffff",
+            "color7": "#000000"
         }
     },
     "fontSwatch": {
